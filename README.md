@@ -2,8 +2,7 @@
 https://patika.dev 'in Merge Sort Projesi
 
 
-**1) [16,21,11,8,12,22]
-Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.**
+**1) [16,21,11,8,12,22] dizisinin sort türüne göre aşamaları:**
 
 - [16,21,11]--------[8,12,22] (Dizinin elemanları her adımda parçalara ayrılıp, tek eleman kalıncaya kadar yazılır.)
 - [16]---[21,11]-----[8]---[12,22]
@@ -14,4 +13,4 @@ Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.**
 
 
 **2)Big-O gösterimini yazınız.**
- O(nlogn)
+ - O(nlogn)
